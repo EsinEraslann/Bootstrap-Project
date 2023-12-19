@@ -11,6 +11,11 @@
     font-size: 20px;   
 }
 
+.navbar-toggler{
+    color: #ffffff;
+    background-color: #1abc9c;
+    font-size: 15px;
+}
 
 .avatar{
     width: 250px;
